@@ -1,0 +1,19 @@
+[
+    {"id": 1, "name": "Ape Gama", "author": "Marting Wichramasinghe" ,"quantity": 40, "price":250},
+    {"id": 2, "name": "Gamarala", "author": "Kumarathunga Munidhasa" ,"quantity": 30, "price":300},
+    {"id": 3, "name": "Mahadenamuththa", "author": "Vilbart Jayasinghe" ,"quantity": 12, "price":350},
+    {"id": 4, "name": "Gamperaliya", "author": "Marting Wichramasinghe" ,"quantity": 24, "price":280},
+    {"id": 5, "name": "Amma", "author": "Upul Shantha Sannasgala" ,"quantity": 32, "price":230},
+    {"id": 6, "name": "Tarson", "author": "Robbert Anton" ,"quantity": 31, "price":330},
+    {"id": 7, "name": "Kantharaye Kusuma", "author": "Jeffrie Wandersay" ,"quantity": 14, "price":375},
+    {"id": 8, "name": "Hath Pana", "author": "Kumarathunga Munidasa" ,"quantity": 27, "price":290},
+    {"id": 9, "name": "Magulkema", "author": "Sarath Weerasekara" ,"quantity": 34, "price":190},
+    {"id": 10, "name": "Pannaraya", "author": "Albert Jayakodi" ,"quantity": 13, "price":150},
+    {"id": 11, "name": "Podi Hamuduruwo", "author": "Wimalachana Thero" ,"quantity": 17, "price":210},
+    {"id": 12, "name": "Malagiya Aththo", "author": "Marting Wichramasinghe" ,"quantity": 40, "price":235},
+    {"id": 13, "name": "Manawaya", "author": "Ishara Weerasinghe" ,"quantity": 29, "price":245},
+    {"id": 14, "name": "Sirageya", "author": "King Kashshapa" ,"quantity": 39, "price":300},
+    {"id": 15, "name": "Ape Rata", "author": "Mahinda Rajapakshe" ,"quantity": 33, "price":360},
+    {"id": 16, "name": "Janapathi Thaththa", "author": "Meythipala Sirisena" ,"quantity": 27, "price":380},
+    {"id": 17, "name": "Kithulgala", "author": "Jayasumana Wijewardhana" ,"quantity": 19, "price":500}
+]
